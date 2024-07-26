@@ -54,7 +54,7 @@ export default function SplitWithImage() {
   let router = useRouter();
 
   return (
-    <Container maxW="container.lg" mt={20}>
+    <Container maxW="container.lg" mt={5}>
       <VStack align="flex-start" spacing={4}>
         <Box>
           <Text

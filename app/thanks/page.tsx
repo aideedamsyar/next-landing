@@ -12,7 +12,7 @@ const ThanksPage: React.FC = () => {
 
   return (
     <div>
-      <Container mt={20}>
+      <Container mt={5}>
         <Heading mt="2rem" mb="1.5rem" lineHeight="2.5rem" fontSize="2.5rem">
           The message is on its way!
         </Heading>

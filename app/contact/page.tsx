@@ -28,7 +28,7 @@ const Contact: React.FC = () => {
   const isDark = colorMode === 'dark';
 
   return (
-    <Container maxW="full" mt={10} centerContent overflow="hidden">
+    <Container maxW="full" mt={5} centerContent overflow="hidden">
       <Flex mt={4} mb={4} w="full" justifyContent="center">
         <Box
           bg={isDark ? 'rgba(0, 0, 0, 0.87)' : 'black'}

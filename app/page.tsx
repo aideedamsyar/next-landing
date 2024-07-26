@@ -7,7 +7,7 @@ import Social from './components/Social';
 export default function Home() {
 
   return (
-    <VStack mt={20}>
+    <VStack mt={5}>
       <Stack align='center' mt={"4rem"}>
         <Flex alignSelf="flex-start">
           <Center>
