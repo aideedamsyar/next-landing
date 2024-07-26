@@ -9,8 +9,7 @@ export default function Home() {
   return (
     <VStack mt={20}>
       <Stack align='center' mt={"4rem"}>
-        <Flex
-          alignSelf="flex-start">
+        <Flex alignSelf="flex-start">
           <Center>
             <Box ml={10} mr={10} mb={10} width='70%'>
               <Text fontSize='xl'>I&apos;m Tengku, an aspiring full stack software engineer based in Seoul, South Korea. I find myself drawn to full-stack software engineering, particularly front-end development. I am also interested in product design and writing, and I enjoy learning about these fields whenever I can.</Text>

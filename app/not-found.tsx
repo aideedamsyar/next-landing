@@ -2,8 +2,7 @@
 import React, { useEffect, useRef }  from 'react'
 import lottie from "lottie-web";
 import { useRouter } from 'next/navigation';
-import { Box, Button, ButtonGroup, Container, Heading, Link } from '@chakra-ui/react';
-import { Text } from '@chakra-ui/react';
+import { Box, Button, ButtonGroup, Container, Heading, Link, Text } from '@chakra-ui/react';
 import { useColorMode } from '@chakra-ui/react';
 import NotFound from './components/NotFound';
 
@@ -31,4 +30,4 @@ const NotFoundPage: React.FC = () => {
     )
 }
 
-export default NotFoundPage
+export default NotFoundPage;
