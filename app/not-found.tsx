@@ -15,7 +15,7 @@ const NotFoundPage: React.FC = () => {
     return (
         <div>
             <Container mt={20}>
-                <Heading mt={4} lineHeight="2.5rem" fontSize="2.5rem">Hmm, the page doesn't seem to be available.</Heading>
+                <Heading mt={4} lineHeight="2.5rem" fontSize="2.5rem">Hmm, the page doesn&apos;t seem to be available.</Heading>
                 <Box mt={-10} width="100%" maxW="500px"> 
                     <NotFound />
                 </Box>            
